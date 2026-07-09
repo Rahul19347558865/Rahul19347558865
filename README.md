@@ -150,31 +150,7 @@ https://rahul-portfolio-two-gray.vercel.app/
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul19347558865&theme=algolia&no-frame=true&column=7"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-✅ Master React.js
-
-✅ Learn Backend Development
-
-✅ Improve DSA Skills
-
-✅ Build 10+ High Quality Projects
-
-✅ Contribute to Open Source
-
-✅ Secure a Software Engineering Internship
-
----
 
 # 📈 Current Focus
 
