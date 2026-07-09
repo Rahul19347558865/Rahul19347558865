@@ -1,19 +1,31 @@
 <div align="center">
 
-# Hi there, I'm Pulipati Rahul 👋
+# Hi 👋, I'm Pulipati Rahul
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;CSE+Student;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;CSE+Student;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG"/>
+
+### 🚀 Full Stack Web Developer | CSE Student | Problem Solver
+
+Passionate about building modern, scalable and user-friendly web applications that solve real-world problems.
 
 <p>
-Passionate about building modern, responsive and user-friendly web applications.<br>
-Currently focused on Full Stack Development, DSA and creating impactful real-world projects.
-</p>
 
-<p>
-<a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_INSTAGRAM_LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://rahul-portfolio-two-gray.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pulipati-rahul-92a27940b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/pulipati_rahul19">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:pulipatirahul19@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Rahul19347558865&style=for-the-badge&color=blue)
@@ -24,16 +36,27 @@ Currently focused on Full Stack Development, DSA and creating impactful real-wor
 
 # 👨‍💻 About Me
 
-- 🎓 Diploma CSE Graduate | Pursuing B.Tech
-- 💻 Passionate Full Stack Web Developer
-- 🚀 Love building projects that solve real-world problems
-- 📚 Currently learning **React, Node.js, Express.js, TypeScript & DSA**
-- 🌱 Always improving my development skills
-- 🎯 Goal: Become a Software Engineer at a top product company
+🎓 Diploma in Computer Science Engineering
+
+💻 Passionate Full Stack Web Developer
+
+🚀 I enjoy building real-world projects that solve practical problems.
+
+📚 Currently learning
+
+- React.js
+- Node.js
+- Express.js
+- TypeScript
+- Data Structures & Algorithms
+
+🎯 Goal
+
+Become a Software Engineer and build impactful products used by thousands of people.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -69,78 +92,59 @@ Currently focused on Full Stack Development, DSA and creating impactful real-wor
 
 # 🌟 Featured Projects
 
+## 📄 Resume Forge
+
+Modern Resume Builder that allows users to create professional resumes with live preview and PDF download.
+
+🌐 Live Demo
+
+https://resume-builder-seven-dun.vercel.app
+
+---
+
+## 📚 ECET Rankers
+
+A complete preparation platform for TS ECET students including previous papers, syllabus, practice questions and study resources.
+
+🌐 Live Demo
+
+https://ecetrankers.vercel.app
+
+---
+
 ## 🚍 Commute Connect
 
-A smart transportation platform connecting passengers with transport services through an intuitive interface.
+A smart transportation platform that connects passengers with transport providers through an intuitive interface.
 
-**Tech Stack**
+🌐 Live Demo
 
-`React` `TypeScript` `Supabase` `Vercel`
-
-🔗 Repository: **ADD_LINK**
-
-🌐 Live Demo: **ADD_LINK**
+https://commute-connect-neon.vercel.app
 
 ---
 
-## 📚 TS ECET Rankers
+## 🌐 Rahul Portfolio
 
-A complete preparation platform for TS ECET students featuring previous papers, syllabus, practice questions and resources.
+Personal portfolio showcasing my projects, skills and development journey.
 
-**Tech Stack**
+🌐 Live Demo
 
-`JavaScript`
-
-🔗 Repository: **ADD_LINK**
-
-🌐 Live Demo: **ADD_LINK**
+https://rahul-portfolio-two-gray.vercel.app/
 
 ---
 
-## 📄 Resume Builder
-
-Modern Resume Builder with beautiful templates and PDF export.
-
-**Features**
-
-- Professional Templates
-- Live Preview
-- PDF Download
-- Responsive UI
-
-🔗 Repository: **ADD_LINK**
-
-🌐 Live Demo: **ADD_LINK**
-
----
-
-## 🌐 Personal Portfolio
-
-My personal developer portfolio showcasing my projects, skills and journey.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-🔗 Repository: **ADD_LINK**
-
-🌐 Live Demo: **ADD_LINK**
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahul19347558865&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul19347558865&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul19347558865&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul19347558865&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul19347558865&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul19347558865&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -150,7 +154,7 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul19347558865&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul19347558865&theme=algolia&no-frame=true&column=7"/>
 
 </p>
 
@@ -158,12 +162,17 @@ HTML • CSS • JavaScript
 
 # 🎯 2026 Goals
 
-- ✅ Build 10+ Real World Projects
-- ✅ Master React
-- ✅ Learn Node.js & Express
-- ✅ Improve DSA
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Internship
+✅ Master React.js
+
+✅ Learn Backend Development
+
+✅ Improve DSA Skills
+
+✅ Build 10+ High Quality Projects
+
+✅ Contribute to Open Source
+
+✅ Secure a Software Engineering Internship
 
 ---
 
@@ -171,33 +180,33 @@ HTML • CSS • JavaScript
 
 ```text
 🌐 Full Stack Development
-⚛️ React Ecosystem
-🟢 Node.js Backend
-🧩 TypeScript
-📚 Data Structures & Algorithms
-🚀 Deployment & Cloud
+⚛️ React.js
+🟢 Node.js
+🔷 TypeScript
+📚 DSA
+☁️ Cloud & Deployment
 ```
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="mailto:pulipatirahul19@gmail.com">
+<img src="https://img.shields.io/badge/Email-pulipatirahul19%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pulipati-rahul-92a27940b">
+<img src="https://img.shields.io/badge/LinkedIn-Pulipati%20Rahul-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/pulipati_rahul19">
+<img src="https://img.shields.io/badge/Instagram-@pulipati__rahul19-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://rahul-portfolio-two-gray.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_INSTAGRAM_LINK">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -206,10 +215,10 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
-
-⭐ If you like my projects, consider giving them a star.
+## ⭐ Thank you for visiting my profile!
 
 *"Code. Learn. Build. Repeat."* 🚀
+
+If you like my work, consider ⭐ starring my repositories.
 
 </div>
